@@ -21,7 +21,7 @@ const Navbar = () => {
               <h1 className="text-lg font-bold">Chatty</h1>
             </Link>
           </div>
-
+            
           <div className="flex items-center gap-2">
             <Link to={"settings"} className="btn btn-sm transition-colors">
               <Settings className="w-5 h-5" />
